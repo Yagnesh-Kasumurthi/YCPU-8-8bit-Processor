@@ -15,7 +15,7 @@ YCPU-8 is an intermediate-level 8-bit processor designed and simulated using Ver
 ## Tools
 - Verilog HDL
 - Icarus Verilog
-- GTKWave
+- Vapor View
 - Visual Studio Code
 
 ## Project Status
